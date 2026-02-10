@@ -1,0 +1,10 @@
+Character Checker 🔍
+  A simple Python script that checks whether the entered input is:
+  - Uppercase letter
+  - Lowercase letter
+  - Digit
+  - Special symbol
+
+Usage
+    Run the program and enter a single character.  
+    It will instantly tell you what type of character you entered
